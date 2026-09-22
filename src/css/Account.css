@@ -1,0 +1,95 @@
+/* Card Container */
+.AccountMainCard {
+  background: #ffffff;
+  width: 100%;
+  max-width: 650px;
+  padding: 32px;
+  border-radius: 16px;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05), 
+              0 8px 10px -6px rgba(0, 0, 0, 0.01);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.AccountMainCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 30px -10px rgba(0, 0, 0, 0.08);
+}
+
+/* Header Profile Section */
+.AccountHeader {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 28px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.AccountAvatar {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: #4f46e5;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 20px;
+  box-shadow: 0 4px 12px rgba(79, 70, 229, 0.25);
+}
+
+.AccountHeaderDetails h2 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.AccountSubtext {
+  font-size: 13px;
+  color: #64748b;
+  margin-top: 2px;
+}
+
+/* Form Layout Grid */
+.AccountFormGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+}
+
+.AccountInputGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.AccountInputGroup.AccountFullWidth {
+  grid-column: span 2;
+}
+
+.AccountLabel {
+  font-size: 12px;
+  font-weight: 600;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+/* Simulated Read-only Input Box */
+.AccountInputField {
+  background-color: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 12px 16px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #1e293b;
+  transition: all 0.2s ease;
+}
+
+.AccountInputField:hover {
+  border-color: #cbd5e1;
+  background-color: #ffffff;
+}

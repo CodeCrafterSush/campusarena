@@ -1,0 +1,170 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* Base App Layout */
+.homeContainer {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  background-color: #f8fafc;
+  color: #1e293b;
+}
+
+/* --------------------------------------------------
+   Left Navigation Sidebar (30%)
+-------------------------------------------------- */
+.homeNavArea {
+  width: 30%;
+  max-width: 320px;
+  min-width: 240px;
+  height: 100%;
+  background-color: #ffffff;
+  border-right: 1px solid #e2e8f0;
+  padding: 28px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  box-shadow: 4px 0 16px rgba(0, 0, 0, 0.02);
+}
+
+/* --- User Profile Card Section --- */
+.userProfileHeader {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 14px 20px 14px;
+  margin-bottom: 12px;
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.userAvatarCircle {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #6366f1 0%, #4f46e5 100%);
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  font-weight: 700;
+  box-shadow: 0 4px 10px rgba(79, 70, 229, 0.25);
+  flex-shrink: 0;
+}
+
+.userProfileInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  overflow: hidden;
+}
+
+.userProfileName {
+  font-size: 16px;
+  font-weight: 700;
+  color: #0f172a;
+  text-transform: capitalize;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.userTypeBadge {
+  align-self: flex-start;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 3px 10px;
+  border-radius: 12px;
+}
+
+/* Badge variants */
+.userTypeBadge.student {
+  background-color: #e0e7ff;
+  color: #4338ca;
+}
+
+.userTypeBadge.faculty {
+  background-color: #fef3c7;
+  color: #b45309;
+}
+
+/* --- Navigation Items --- */
+.navItem {
+  padding: 12px 16px;
+  border-radius: 10px;
+  background-color: transparent;
+  color: #64748b;
+  font-size: 15px;
+  font-weight: 500;
+  cursor: pointer;
+  text-align: left;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  user-select: none;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.navIconCircle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Interactive Hover States */
+.navItem:hover {
+  background-color: #f1f5f9;
+  color: #0f172a;
+  transform: translateX(4px);
+}
+
+/* Active State */
+.navItem.active {
+  background-color: #4f46e5;
+  color: #ffffff;
+  font-weight: 600;
+  box-shadow: 0 4px 12px rgba(79, 70, 229, 0.25);
+  transform: translateX(0);
+}
+
+/* Logout Button Special Styling */
+.navItem.logoutBtn {
+  margin-top: auto;
+  color: #ef4444;
+  background-color: #fef2f2;
+}
+
+.navItem.logoutBtn:hover {
+  background-color: #fee2e2;
+  color: #dc2626;
+  transform: translateY(-2px);
+}
+
+/* --------------------------------------------------
+   Right Content Area (70%)
+-------------------------------------------------- */
+.homeCardArea {
+  flex: 1;
+  height: 100%;
+  background-color: #f8fafc;
+  padding: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.homeCardAreaPlaceholder {
+  background: #ffffff;
+  padding: 40px;
+  border-radius: 16px;
+  border: 1px solid #e2e8f0;
+  text-align: center;
+  color: #64748b;
+}

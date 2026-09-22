@@ -1,0 +1,502 @@
+{
+  "faculty_admin": {
+    "username": "user",
+    "password": "123",
+    "name": "Dr. Rajesh V. Sharma",
+    "mobile": "+91 98220 12345",
+    "email": "rajesh.sharma@college.edu",
+    "branch": "Computer Science & Engineering",
+    "designation": "Associate Professor & HOD",
+    "employeeId": "FAC2026-101"
+  },
+  "prof_anil": {
+    "username": "prof_anil",
+    "password": "123",
+    "name": "Prof. Anil K. Deshmukh",
+    "mobile": "+91 94231 67890",
+    "email": "anil.deshmukh@college.edu",
+    "branch": "Information Technology",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-104"
+  },
+  "prof_1": {
+    "username": "prof_1",
+    "password": "123",
+    "name": "Dr. Sunita P. Patil",
+    "mobile": "+91 98230 11101",
+    "email": "sunita.patil@college.edu",
+    "branch": "Computer Science & Engineering",
+    "designation": "Professor",
+    "employeeId": "FAC2026-105"
+  },
+  "prof_2": {
+    "username": "prof_2",
+    "password": "123",
+    "name": "Prof. Manoj R. Joshi",
+    "mobile": "+91 98230 11102",
+    "email": "manoj.joshi@college.edu",
+    "branch": "Information Technology",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-106"
+  },
+  "prof_3": {
+    "username": "prof_3",
+    "password": "123",
+    "name": "Dr. Kavita S. Kulkarni",
+    "mobile": "+91 98230 11103",
+    "email": "kavita.kulkarni@college.edu",
+    "branch": "Computer Science & Engineering",
+    "designation": "Associate Professor",
+    "employeeId": "FAC2026-107"
+  },
+  "prof_4": {
+    "username": "prof_4",
+    "password": "123",
+    "name": "Prof. Ramesh V. Pawar",
+    "mobile": "+91 98230 11104",
+    "email": "ramesh.pawar@college.edu",
+    "branch": "Artificial Intelligence & Data Science",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-108"
+  },
+  "prof_5": {
+    "username": "prof_5",
+    "password": "123",
+    "name": "Dr. Pooja A. Verma",
+    "mobile": "+91 98230 11105",
+    "email": "pooja.verma@college.edu",
+    "branch": "Information Technology",
+    "designation": "Associate Professor",
+    "employeeId": "FAC2026-109"
+  },
+  "prof_6": {
+    "username": "prof_6",
+    "password": "123",
+    "name": "Prof. Suresh N. Gawande",
+    "mobile": "+91 98230 11106",
+    "email": "suresh.gawande@college.edu",
+    "branch": "Computer Science & Engineering",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-110"
+  },
+  "prof_7": {
+    "username": "prof_7",
+    "password": "123",
+    "name": "Dr. Sneha B. More",
+    "mobile": "+91 98230 11107",
+    "email": "sneha.more@college.edu",
+    "branch": "Artificial Intelligence & Data Science",
+    "designation": "Professor",
+    "employeeId": "FAC2026-111"
+  },
+  "prof_8": {
+    "username": "prof_8",
+    "password": "123",
+    "name": "Prof. Amit D. Shah",
+    "mobile": "+91 98230 11108",
+    "email": "amit.shah@college.edu",
+    "branch": "Computer Applications",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-112"
+  },
+  "prof_9": {
+    "username": "prof_9",
+    "password": "123",
+    "name": "Dr. Meena H. Shinde",
+    "mobile": "+91 98230 11109",
+    "email": "meena.shinde@college.edu",
+    "branch": "Information Technology",
+    "designation": "Associate Professor",
+    "employeeId": "FAC2026-113"
+  },
+  "prof_10": {
+    "username": "prof_10",
+    "password": "123",
+    "name": "Prof. Vikas C. Kadam",
+    "mobile": "+91 98230 11110",
+    "email": "vikas.kadam@college.edu",
+    "branch": "Computer Science & Engineering",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-114"
+  },
+  "prof_11": {
+    "username": "prof_11",
+    "password": "123",
+    "name": "Dr. Priya M. Kale",
+    "mobile": "+91 98230 11111",
+    "email": "priya.kale@college.edu",
+    "branch": "Computer Applications",
+    "designation": "Associate Professor",
+    "employeeId": "FAC2026-115"
+  },
+  "prof_12": {
+    "username": "prof_12",
+    "password": "123",
+    "name": "Prof. Nitin S. Jadhav",
+    "mobile": "+91 98230 11112",
+    "email": "nitin.jadhav@college.edu",
+    "branch": "Information Technology",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-116"
+  },
+  "prof_13": {
+    "username": "prof_13",
+    "password": "123",
+    "name": "Dr. Anjali K. Wagh",
+    "mobile": "+91 98230 11113",
+    "email": "anjali.wagh@college.edu",
+    "branch": "Artificial Intelligence & Data Science",
+    "designation": "Professor",
+    "employeeId": "FAC2026-117"
+  },
+  "prof_14": {
+    "username": "prof_14",
+    "password": "123",
+    "name": "Prof. Deepak R. Ingle",
+    "mobile": "+91 98230 11114",
+    "email": "deepak.ingle@college.edu",
+    "branch": "Computer Science & Engineering",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-118"
+  },
+  "prof_15": {
+    "username": "prof_15",
+    "password": "123",
+    "name": "Dr. Swati P. Bhosale",
+    "mobile": "+91 98230 11115",
+    "email": "swati.bhosale@college.edu",
+    "branch": "Information Technology",
+    "designation": "Associate Professor",
+    "employeeId": "FAC2026-119"
+  },
+  "prof_16": {
+    "username": "prof_16",
+    "password": "123",
+    "name": "Prof. Sachin T. Mane",
+    "mobile": "+91 98230 11116",
+    "email": "sachin.mane@college.edu",
+    "branch": "Computer Applications",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-120"
+  },
+  "prof_17": {
+    "username": "prof_17",
+    "password": "123",
+    "name": "Dr. Nisha V. Solanki",
+    "mobile": "+91 98230 11117",
+    "email": "nisha.solanki@college.edu",
+    "branch": "Artificial Intelligence & Data Science",
+    "designation": "Associate Professor",
+    "employeeId": "FAC2026-121"
+  },
+  "prof_18": {
+    "username": "prof_18",
+    "password": "123",
+    "name": "Prof. Rahul G. Naik",
+    "mobile": "+91 98230 11118",
+    "email": "rahul.naik@college.edu",
+    "branch": "Computer Science & Engineering",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-122"
+  },
+  "prof_19": {
+    "username": "prof_19",
+    "password": "123",
+    "name": "Dr. Archana S. Chaudhary",
+    "mobile": "+91 98230 11119",
+    "email": "archana.chaudhary@college.edu",
+    "branch": "Information Technology",
+    "designation": "Professor",
+    "employeeId": "FAC2026-123"
+  },
+  "prof_20": {
+    "username": "prof_20",
+    "password": "123",
+    "name": "Prof. Sanjay L. Thorat",
+    "mobile": "+91 98230 11120",
+    "email": "sanjay.thorat@college.edu",
+    "branch": "Computer Applications",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-124"
+  },
+  "prof_21": {
+    "username": "prof_21",
+    "password": "123",
+    "name": "Dr. Rekha N. Gupta",
+    "mobile": "+91 98230 11121",
+    "email": "rekha.gupta@college.edu",
+    "branch": "Computer Science & Engineering",
+    "designation": "Associate Professor",
+    "employeeId": "FAC2026-125"
+  },
+  "prof_22": {
+    "username": "prof_22",
+    "password": "123",
+    "name": "Prof. Ganesh K. Shelke",
+    "mobile": "+91 98230 11122",
+    "email": "ganesh.shelke@college.edu",
+    "branch": "Artificial Intelligence & Data Science",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-126"
+  },
+  "prof_23": {
+    "username": "prof_23",
+    "password": "123",
+    "name": "Dr. Smita R. Mahajan",
+    "mobile": "+91 98230 11123",
+    "email": "smita.mahajan@college.edu",
+    "branch": "Information Technology",
+    "designation": "Associate Professor",
+    "employeeId": "FAC2026-127"
+  },
+  "prof_24": {
+    "username": "prof_24",
+    "password": "123",
+    "name": "Prof. Ajay P. Deshmukh",
+    "mobile": "+91 98230 11124",
+    "email": "ajay.deshmukh@college.edu",
+    "branch": "Computer Applications",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-128"
+  },
+  "prof_25": {
+    "username": "prof_25",
+    "password": "123",
+    "name": "Dr. Shilpa M. Sonawane",
+    "mobile": "+91 98230 11125",
+    "email": "shilpa.sonawane@college.edu",
+    "branch": "Computer Science & Engineering",
+    "designation": "Professor",
+    "employeeId": "FAC2026-129"
+  },
+  "prof_26": {
+    "username": "prof_26",
+    "password": "123",
+    "name": "Prof. Kiran B. Rathod",
+    "mobile": "+91 98230 11126",
+    "email": "kiran.rathod@college.edu",
+    "branch": "Artificial Intelligence & Data Science",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-130"
+  },
+  "prof_27": {
+    "username": "prof_27",
+    "password": "123",
+    "name": "Dr. Vandana S. Gaikwad",
+    "mobile": "+91 98230 11127",
+    "email": "vandana.gaikwad@college.edu",
+    "branch": "Information Technology",
+    "designation": "Associate Professor",
+    "employeeId": "FAC2026-131"
+  },
+  "prof_28": {
+    "username": "prof_28",
+    "password": "123",
+    "name": "Prof. Ashish T. Borse",
+    "mobile": "+91 98230 11128",
+    "email": "ashish.borse@college.edu",
+    "branch": "Computer Applications",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-132"
+  },
+  "prof_29": {
+    "username": "prof_29",
+    "password": "123",
+    "name": "Dr. Rashmi C. Tiwari",
+    "mobile": "+91 98230 11129",
+    "email": "rashmi.tiwari@college.edu",
+    "branch": "Computer Science & Engineering",
+    "designation": "Associate Professor",
+    "employeeId": "FAC2026-133"
+  },
+  "prof_30": {
+    "username": "prof_30",
+    "password": "123",
+    "name": "Prof. Nilesh D. Suryawanshi",
+    "mobile": "+91 98230 11130",
+    "email": "nilesh.suryawanshi@college.edu",
+    "branch": "Information Technology",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-134"
+  },
+  "prof_31": {
+    "username": "prof_31",
+    "password": "123",
+    "name": "Dr. Pallavi A. Ghoge",
+    "mobile": "+91 98230 11131",
+    "email": "pallavi.ghoge@college.edu",
+    "branch": "Artificial Intelligence & Data Science",
+    "designation": "Associate Professor",
+    "employeeId": "FAC2026-135"
+  },
+  "prof_32": {
+    "username": "prof_32",
+    "password": "123",
+    "name": "Prof. Pankaj S. Lokhande",
+    "mobile": "+91 98230 11132",
+    "email": "pankaj.lokhande@college.edu",
+    "branch": "Computer Applications",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-136"
+  },
+  "prof_33": {
+    "username": "prof_33",
+    "password": "123",
+    "name": "Dr. Leena R. Dhake",
+    "mobile": "+91 98230 11133",
+    "email": "leena.dhake@college.edu",
+    "branch": "Computer Science & Engineering",
+    "designation": "Professor",
+    "employeeId": "FAC2026-137"
+  },
+  "prof_34": {
+    "username": "prof_34",
+    "password": "123",
+    "name": "Prof. Vishal M. Bandal",
+    "mobile": "+91 98230 11134",
+    "email": "vishal.bandal@college.edu",
+    "branch": "Information Technology",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-138"
+  },
+  "prof_35": {
+    "username": "prof_35",
+    "password": "123",
+    "name": "Dr. Komal K. Thakare",
+    "mobile": "+91 98230 11135",
+    "email": "komal.thakare@college.edu",
+    "branch": "Artificial Intelligence & Data Science",
+    "designation": "Associate Professor",
+    "employeeId": "FAC2026-139"
+  },
+  "prof_36": {
+    "username": "prof_36",
+    "password": "123",
+    "name": "Prof. Tushar P. Zope",
+    "mobile": "+91 98230 11136",
+    "email": "tushar.zope@college.edu",
+    "branch": "Computer Applications",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-140"
+  },
+  "prof_37": {
+    "username": "prof_37",
+    "password": "123",
+    "name": "Dr. Yogita S. Bhole",
+    "mobile": "+91 98230 11137",
+    "email": "yogita.bhole@college.edu",
+    "branch": "Computer Science & Engineering",
+    "designation": "Associate Professor",
+    "employeeId": "FAC2026-141"
+  },
+  "prof_38": {
+    "username": "prof_38",
+    "password": "123",
+    "name": "Prof. Mahesh G. Badgujar",
+    "mobile": "+91 98230 11138",
+    "email": "mahesh.badgujar@college.edu",
+    "branch": "Information Technology",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-142"
+  },
+  "prof_39": {
+    "username": "prof_39",
+    "password": "123",
+    "name": "Dr. Seema V. Agrawal",
+    "mobile": "+91 98230 11139",
+    "email": "seema.agrawal@college.edu",
+    "branch": "Artificial Intelligence & Data Science",
+    "designation": "Professor",
+    "employeeId": "FAC2026-143"
+  },
+  "prof_40": {
+    "username": "prof_40",
+    "password": "123",
+    "name": "Prof. Rohit N. Wani",
+    "mobile": "+91 98230 11140",
+    "email": "rohit.wani@college.edu",
+    "branch": "Computer Applications",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-144"
+  },
+  "prof_41": {
+    "username": "prof_41",
+    "password": "123",
+    "name": "Dr. Rupali D. Wankhede",
+    "mobile": "+91 98230 11141",
+    "email": "rupali.wankhede@college.edu",
+    "branch": "Computer Science & Engineering",
+    "designation": "Associate Professor",
+    "employeeId": "FAC2026-145"
+  },
+  "prof_42": {
+    "username": "prof_42",
+    "password": "123",
+    "name": "Prof. Bhushan K. Chaudhari",
+    "mobile": "+91 98230 11142",
+    "email": "bhushan.chaudhari@college.edu",
+    "branch": "Information Technology",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-146"
+  },
+  "prof_43": {
+    "username": "prof_43",
+    "password": "123",
+    "name": "Dr. Varsha R. Nimbalkar",
+    "mobile": "+91 98230 11143",
+    "email": "varsha.nimbalkar@college.edu",
+    "branch": "Artificial Intelligence & Data Science",
+    "designation": "Associate Professor",
+    "employeeId": "FAC2026-147"
+  },
+  "prof_44": {
+    "username": "prof_44",
+    "password": "123",
+    "name": "Prof. Hemant C. Patil",
+    "mobile": "+91 98230 11144",
+    "email": "hemant.patil@college.edu",
+    "branch": "Computer Applications",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-148"
+  },
+  "prof_45": {
+    "username": "prof_45",
+    "password": "123",
+    "name": "Dr. Sarika M. Shinde",
+    "mobile": "+91 98230 11145",
+    "email": "sarika.shinde@college.edu",
+    "branch": "Computer Science & Engineering",
+    "designation": "Professor",
+    "employeeId": "FAC2026-149"
+  },
+  "prof_46": {
+    "username": "prof_46",
+    "password": "123",
+    "name": "Prof. Chetan S. Mahale",
+    "mobile": "+91 98230 11146",
+    "email": "chetan.mahale@college.edu",
+    "branch": "Information Technology",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-150"
+  },
+  "prof_47": {
+    "username": "prof_47",
+    "password": "123",
+    "name": "Dr. Minal P. Borole",
+    "mobile": "+91 98230 11147",
+    "email": "minal.borole@college.edu",
+    "branch": "Artificial Intelligence & Data Science",
+    "designation": "Associate Professor",
+    "employeeId": "FAC2026-151"
+  },
+  "prof_48": {
+    "username": "prof_48",
+    "password": "123",
+    "name": "Prof. Gaurav A. Shah",
+    "mobile": "+91 98230 11148",
+    "email": "gaurav.shah@college.edu",
+    "branch": "Computer Applications",
+    "designation": "Assistant Professor",
+    "employeeId": "FAC2026-152"
+  }
+}

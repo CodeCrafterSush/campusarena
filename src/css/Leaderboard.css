@@ -1,0 +1,203 @@
+/* Container Wrapper */
+.LeaderboardMainContainer {
+  background: #ffffff;
+  width: 100%;
+  max-width: 1100px;
+  height: 85vh; /* Fixed height for page fit */
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+  border-radius: 16px;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05);
+  box-sizing: border-box;
+}
+
+/* Header Section */
+.LeaderboardHeaderArea {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 16px;
+  margin-bottom: 16px;
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.LeaderboardTitle {
+  margin: 0;
+  font-size: 1.4rem;
+  color: #0f172a;
+  font-weight: 700;
+}
+
+.LeaderboardSubHeading {
+  margin: 4px 0 0 0;
+  font-size: 0.875rem;
+  color: #64748b;
+}
+
+.LeaderboardSearchInput {
+  padding: 10px 14px;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  outline: none;
+  background-color: #f8fafc;
+  width: 240px;
+  transition: all 0.2s ease;
+}
+
+.LeaderboardSearchInput:focus {
+  border-color: #4f46e5;
+  background-color: #ffffff;
+  box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.1);
+}
+
+.LeaderboardLoadingState {
+  text-align: center;
+  padding: 40px;
+  color: #64748b;
+}
+
+/* Scrollable Container with 2-Column Grid */
+.LeaderboardGridScrollArea {
+  flex: 1;
+  overflow-y: auto;
+  padding-right: 8px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 Column Layout */
+  gap: 16px;
+  align-content: start;
+}
+
+/* Scrollbar Custom Styling */
+.LeaderboardGridScrollArea::-webkit-scrollbar {
+  width: 6px;
+}
+.LeaderboardGridScrollArea::-webkit-scrollbar-track {
+  background: #f1f5f9;
+  border-radius: 4px;
+}
+.LeaderboardGridScrollArea::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+.LeaderboardGridScrollArea::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Individual Grid Card */
+.LeaderboardGridCard {
+  background-color: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  transition: all 0.2s ease;
+}
+
+.LeaderboardGridCard:hover {
+  background-color: #ffffff;
+  border-color: #6366f1;
+  box-shadow: 0 8px 20px rgba(79, 70, 229, 0.1);
+  transform: translateY(-2px);
+}
+
+/* Top 3 Borders */
+.LeaderboardRankBorder-1 { border-top: 4px solid #eab308; }
+.LeaderboardRankBorder-2 { border-top: 4px solid #94a3b8; }
+.LeaderboardRankBorder-3 { border-top: 4px solid #cd7f32; }
+
+/* Card Top Section */
+.LeaderboardCardHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.LeaderboardBadge {
+  background-color: #e0e7ff;
+  color: #4f46e5;
+  font-weight: 700;
+  font-size: 0.85rem;
+  padding: 4px 10px;
+  border-radius: 20px;
+}
+
+.RankBadge-1 { background-color: #fef9c3; color: #a16207; }
+.RankBadge-2 { background-color: #f1f5f9; color: #475569; }
+.RankBadge-3 { background-color: #ffedd5; color: #c2410c; }
+
+.LeaderboardScoreTag {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.LeaderboardScoreTag span {
+  font-size: 0.75rem;
+  color: #64748b;
+  text-transform: uppercase;
+}
+
+.LeaderboardScoreTag strong {
+  font-size: 1.1rem;
+  color: #4f46e5;
+}
+
+/* Main Details */
+.LeaderboardCardBody {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.LeaderboardStudentName {
+  margin: 0;
+  font-size: 1.05rem;
+  color: #0f172a;
+  font-weight: 600;
+}
+
+.LeaderboardMetaText {
+  margin: 0;
+  font-size: 0.8rem;
+  color: #64748b;
+}
+
+/* 3x2 Grid for Student Statistics */
+.LeaderboardStatsGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #f1f5f9;
+}
+
+.LeaderboardStatBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.StatLabel {
+  font-size: 0.7rem;
+  color: #64748b;
+}
+
+.StatVal {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #1e293b;
+}
+
+/* Mobile Responsiveness (Auto 1 Column for smaller screens) */
+@media (max-width: 768px) {
+  .LeaderboardGridScrollArea {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,67 @@
+[
+    {
+        "title": "Hackthon",
+        "category": "Urgent",
+        "isNew": true,
+        "semester": "All Semesters",
+        "description": "this is for spacefic branch and you all have to come",
+        "date": "21 Sept 2026",
+        "time": "03:13 PM",
+        "venue": "College Auditoriam"
+    },
+    {
+        "id": 1,
+        "title": "Annual Tech Symposium 2026",
+        "category": "Event",
+        "isNew": true,
+        "semester": "All Semesters",
+        "description": "Join us for paper presentations, coding marathons, and guest lectures from industry experts.",
+        "date": "25 Sep 2026",
+        "time": "10:00 AM",
+        "venue": "Main Auditorium"
+    },
+    {
+        "id": 2,
+        "title": "Mid-Semester Examination Schedule",
+        "category": "Exam",
+        "isNew": true,
+        "semester": "6th Semester",
+        "description": "The timetable for the upcoming mid-semester examinations has been published on the portal.",
+        "date": "28 Sep 2026",
+        "time": "11:30 AM",
+        "venue": "Examination Hall A"
+    },
+    {
+        "id": 3,
+        "title": "Placement Drive Registration",
+        "category": "Career",
+        "isNew": false,
+        "semester": "5th & 6th Semester",
+        "description": "Registration for the upcoming campus recruitment drive ends tomorrow. Submit your resumes.",
+        "date": "22 Sep 2026",
+        "time": "04:00 PM",
+        "venue": "Online / Student Portal"
+    },
+    {
+        "id": 4,
+        "title": "Guest Lecture on Artificial Intelligence",
+        "category": "Seminar",
+        "isNew": false,
+        "semester": "4th & 6th Semester",
+        "description": "Interactive session on Machine Learning and Neural Networks by Dr. R. K. Verma.",
+        "date": "20 Sep 2026",
+        "time": "02:00 PM",
+        "venue": "Seminar Hall 2"
+    },
+    {
+        "id": 5,
+        "title": "Library Books Return Reminder",
+        "category": "Notice",
+        "isNew": false,
+        "semester": "All Semesters",
+        "description": "Please return or renew all borrowed books before the end of the month to avoid late fees.",
+        "date": "18 Sep 2026",
+        "time": "05:00 PM",
+        "venue": "Central Library"
+    }
+]

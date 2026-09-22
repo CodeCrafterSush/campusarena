@@ -1,0 +1,1274 @@
+[
+    {
+        "assignmentsCompleted": 12,
+        "attendance": 88,
+        "branch": "BCA",
+        "name": "Aarav Sharma",
+        "overallScore": 88.2,
+        "rollNo": "101",
+        "semester": 3,
+        "semesters": {
+            "sem1": {
+                "backlogs": 0,
+                "sgpa": 9
+            },
+            "sem2": {
+                "backlogs": 0,
+                "sgpa": 8.5
+            },
+            "sem3": {
+                "backlogs": 0,
+                "sgpa": 8.1
+            }
+        },
+        "totalAssignments": 12
+    },
+    {
+        "rollNo": "102",
+        "name": "Riya Verma",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 94,
+        "semesters": {
+            "sem1": {
+                "sgpa": 9.1,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 9.4,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 9.2,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 12,
+        "totalAssignments": 12,
+        "overallScore": 93.2
+    },
+    {
+        "rollNo": "103",
+        "name": "Rohan Patel",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 76,
+        "semesters": {
+            "sem1": {
+                "sgpa": 7.1,
+                "backlogs": 1
+            },
+            "sem2": {
+                "sgpa": 7.4,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 6.9,
+                "backlogs": 1
+            }
+        },
+        "assignmentsCompleted": 9,
+        "totalAssignments": 12,
+        "overallScore": 72.4
+    },
+    {
+        "rollNo": "104",
+        "name": "Ananya Kulkarni",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 91,
+        "semesters": {
+            "sem1": {
+                "sgpa": 8.8,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 9.0,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 8.9,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 11,
+        "totalAssignments": 12,
+        "overallScore": 89.6
+    },
+    {
+        "rollNo": "105",
+        "name": "Aditya Deshmukh",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 65,
+        "semesters": {
+            "sem1": {
+                "sgpa": 6.2,
+                "backlogs": 2
+            },
+            "sem2": {
+                "sgpa": 5.8,
+                "backlogs": 1
+            },
+            "sem3": {
+                "sgpa": 6.0,
+                "backlogs": 1
+            }
+        },
+        "assignmentsCompleted": 7,
+        "totalAssignments": 12,
+        "overallScore": 61.3
+    },
+    {
+        "rollNo": "106",
+        "name": "Priya Joshi",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 85,
+        "semesters": {
+            "sem1": {
+                "sgpa": 8.0,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 8.2,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 8.4,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 10,
+        "totalAssignments": 12,
+        "overallScore": 82.5
+    },
+    {
+        "rollNo": "107",
+        "name": "Siddharth Rao",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 96,
+        "semesters": {
+            "sem1": {
+                "sgpa": 9.5,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 9.6,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 9.8,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 12,
+        "totalAssignments": 12,
+        "overallScore": 96.4
+    },
+    {
+        "rollNo": "108",
+        "name": "Sneha Gawande",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 82,
+        "semesters": {
+            "sem1": {
+                "sgpa": 7.8,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 8.0,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 7.9,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 10,
+        "totalAssignments": 12,
+        "overallScore": 79.8
+    },
+    {
+        "rollNo": "109",
+        "name": "Karan Malhotra",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 70,
+        "semesters": {
+            "sem1": {
+                "sgpa": 6.8,
+                "backlogs": 1
+            },
+            "sem2": {
+                "sgpa": 6.5,
+                "backlogs": 1
+            },
+            "sem3": {
+                "sgpa": 6.9,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 8,
+        "totalAssignments": 12,
+        "overallScore": 67.2
+    },
+    {
+        "rollNo": "110",
+        "name": "Neha Wankhede",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 89,
+        "semesters": {
+            "sem1": {
+                "sgpa": 8.6,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 8.7,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 8.8,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 11,
+        "totalAssignments": 12,
+        "overallScore": 87.5
+    },
+    {
+        "rollNo": "111",
+        "name": "Varun Mehta",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 78,
+        "semesters": {
+            "sem1": {
+                "sgpa": 7.5,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 7.2,
+                "backlogs": 1
+            },
+            "sem3": {
+                "sgpa": 7.6,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 9,
+        "totalAssignments": 12,
+        "overallScore": 75.1
+    },
+    {
+        "rollNo": "112",
+        "name": "Pooja Ingole",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 92,
+        "semesters": {
+            "sem1": {
+                "sgpa": 8.9,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 9.1,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 9.0,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 12,
+        "totalAssignments": 12,
+        "overallScore": 90.8
+    },
+    {
+        "rollNo": "113",
+        "name": "Shubham Tayade",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 68,
+        "semesters": {
+            "sem1": {
+                "sgpa": 6.0,
+                "backlogs": 2
+            },
+            "sem2": {
+                "sgpa": 6.2,
+                "backlogs": 1
+            },
+            "sem3": {
+                "sgpa": 5.9,
+                "backlogs": 2
+            }
+        },
+        "assignmentsCompleted": 6,
+        "totalAssignments": 12,
+        "overallScore": 60.1
+    },
+    {
+        "rollNo": "114",
+        "name": "Divya Gupta",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 87,
+        "semesters": {
+            "sem1": {
+                "sgpa": 8.4,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 8.3,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 8.6,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 11,
+        "totalAssignments": 12,
+        "overallScore": 85.6
+    },
+    {
+        "rollNo": "115",
+        "name": "Harsh Agarwal",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 81,
+        "semesters": {
+            "sem1": {
+                "sgpa": 7.9,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 7.7,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 8.1,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 10,
+        "totalAssignments": 12,
+        "overallScore": 79.2
+    },
+    {
+        "rollNo": "116",
+        "name": "Isha Chawla",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 95,
+        "semesters": {
+            "sem1": {
+                "sgpa": 9.2,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 9.5,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 9.4,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 12,
+        "totalAssignments": 12,
+        "overallScore": 94.1
+    },
+    {
+        "rollNo": "117",
+        "name": "Kunal Borde",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 74,
+        "semesters": {
+            "sem1": {
+                "sgpa": 7.0,
+                "backlogs": 1
+            },
+            "sem2": {
+                "sgpa": 7.2,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 7.1,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 8,
+        "totalAssignments": 12,
+        "overallScore": 71.5
+    },
+    {
+        "rollNo": "118",
+        "name": "Meera Shah",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 84,
+        "semesters": {
+            "sem1": {
+                "sgpa": 8.1,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 8.2,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 8.0,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 10,
+        "totalAssignments": 12,
+        "overallScore": 81.3
+    },
+    {
+        "rollNo": "119",
+        "name": "Nikhil Bhatia",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 79,
+        "semesters": {
+            "sem1": {
+                "sgpa": 7.6,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 7.4,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 7.8,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 9,
+        "totalAssignments": 12,
+        "overallScore": 76.4
+    },
+    {
+        "rollNo": "120",
+        "name": "Tanvi Solanki",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 90,
+        "semesters": {
+            "sem1": {
+                "sgpa": 8.7,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 8.9,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 8.8,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 11,
+        "totalAssignments": 12,
+        "overallScore": 88.5
+    },
+    {
+        "rollNo": "121",
+        "name": "Gaurav Zade",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 72,
+        "semesters": {
+            "sem1": {
+                "sgpa": 6.9,
+                "backlogs": 1
+            },
+            "sem2": {
+                "sgpa": 6.7,
+                "backlogs": 1
+            },
+            "sem3": {
+                "sgpa": 7.0,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 8,
+        "totalAssignments": 12,
+        "overallScore": 69.0
+    },
+    {
+        "rollNo": "122",
+        "name": "Sakshi Dhole",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 86,
+        "semesters": {
+            "sem1": {
+                "sgpa": 8.3,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 8.4,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 8.2,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 10,
+        "totalAssignments": 12,
+        "overallScore": 83.4
+    },
+    {
+        "rollNo": "123",
+        "name": "Aman Singhania",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 93,
+        "semesters": {
+            "sem1": {
+                "sgpa": 9.0,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 9.2,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 9.1,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 12,
+        "totalAssignments": 12,
+        "overallScore": 92.0
+    },
+    {
+        "rollNo": "124",
+        "name": "Pratiksha Shelke",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 83,
+        "semesters": {
+            "sem1": {
+                "sgpa": 8.0,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 7.9,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 8.1,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 10,
+        "totalAssignments": 12,
+        "overallScore": 80.6
+    },
+    {
+        "rollNo": "125",
+        "name": "Ayush Saxena",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 67,
+        "semesters": {
+            "sem1": {
+                "sgpa": 6.1,
+                "backlogs": 2
+            },
+            "sem2": {
+                "sgpa": 6.0,
+                "backlogs": 1
+            },
+            "sem3": {
+                "sgpa": 6.3,
+                "backlogs": 1
+            }
+        },
+        "assignmentsCompleted": 7,
+        "totalAssignments": 12,
+        "overallScore": 62.8
+    },
+    {
+        "rollNo": "126",
+        "name": "Bhakti Mahajan",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 88,
+        "semesters": {
+            "sem1": {
+                "sgpa": 8.5,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 8.6,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 8.7,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 11,
+        "totalAssignments": 12,
+        "overallScore": 86.3
+    },
+    {
+        "rollNo": "127",
+        "name": "Chetan Pandhare",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 75,
+        "semesters": {
+            "sem1": {
+                "sgpa": 7.2,
+                "backlogs": 1
+            },
+            "sem2": {
+                "sgpa": 7.1,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 7.3,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 9,
+        "totalAssignments": 12,
+        "overallScore": 72.8
+    },
+    {
+        "rollNo": "128",
+        "name": "Kavya Reddy",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 97,
+        "semesters": {
+            "sem1": {
+                "sgpa": 9.6,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 9.7,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 9.5,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 12,
+        "totalAssignments": 12,
+        "overallScore": 96.2
+    },
+    {
+        "rollNo": "129",
+        "name": "Mayur Nimbalkar",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 77,
+        "semesters": {
+            "sem1": {
+                "sgpa": 7.4,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 7.5,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 7.2,
+                "backlogs": 1
+            }
+        },
+        "assignmentsCompleted": 8,
+        "totalAssignments": 12,
+        "overallScore": 73.9
+    },
+    {
+        "rollNo": "130",
+        "name": "Nisha Bansal",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 89,
+        "semesters": {
+            "sem1": {
+                "sgpa": 8.6,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 8.8,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 8.5,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 11,
+        "totalAssignments": 12,
+        "overallScore": 87.1
+    },
+    {
+        "rollNo": "131",
+        "name": "Omkar Thorat",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 80,
+        "semesters": {
+            "sem1": {
+                "sgpa": 7.7,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 7.8,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 7.6,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 10,
+        "totalAssignments": 12,
+        "overallScore": 77.8
+    },
+    {
+        "rollNo": "132",
+        "name": "Payal Meshram",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 85,
+        "semesters": {
+            "sem1": {
+                "sgpa": 8.1,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 8.3,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 8.2,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 10,
+        "totalAssignments": 12,
+        "overallScore": 82.1
+    },
+    {
+        "rollNo": "133",
+        "name": "Rahul Deshpande",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 91,
+        "semesters": {
+            "sem1": {
+                "sgpa": 8.9,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 8.8,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 9.0,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 11,
+        "totalAssignments": 12,
+        "overallScore": 89.2
+    },
+    {
+        "rollNo": "134",
+        "name": "Shruti Kale",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 93,
+        "semesters": {
+            "sem1": {
+                "sgpa": 9.0,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 9.1,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 9.3,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 12,
+        "totalAssignments": 12,
+        "overallScore": 91.8
+    },
+    {
+        "rollNo": "135",
+        "name": "Tejas Sambhare",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 69,
+        "semesters": {
+            "sem1": {
+                "sgpa": 6.3,
+                "backlogs": 1
+            },
+            "sem2": {
+                "sgpa": 6.1,
+                "backlogs": 2
+            },
+            "sem3": {
+                "sgpa": 6.5,
+                "backlogs": 1
+            }
+        },
+        "assignmentsCompleted": 7,
+        "totalAssignments": 12,
+        "overallScore": 63.5
+    },
+    {
+        "rollNo": "136",
+        "name": "Urvashi Kapoor",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 87,
+        "semesters": {
+            "sem1": {
+                "sgpa": 8.3,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 8.5,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 8.4,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 10,
+        "totalAssignments": 12,
+        "overallScore": 84.2
+    },
+    {
+        "rollNo": "137",
+        "name": "Vedant Bhoyar",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 82,
+        "semesters": {
+            "sem1": {
+                "sgpa": 7.9,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 8.0,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 7.8,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 9,
+        "totalAssignments": 12,
+        "overallScore": 78.9
+    },
+    {
+        "rollNo": "138",
+        "name": "Yashodhan More",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 73,
+        "semesters": {
+            "sem1": {
+                "sgpa": 6.8,
+                "backlogs": 1
+            },
+            "sem2": {
+                "sgpa": 7.0,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 6.9,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 8,
+        "totalAssignments": 12,
+        "overallScore": 69.8
+    },
+    {
+        "rollNo": "139",
+        "name": "Aishwarya Rai",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 94,
+        "semesters": {
+            "sem1": {
+                "sgpa": 9.2,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 9.3,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 9.1,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 12,
+        "totalAssignments": 12,
+        "overallScore": 92.8
+    },
+    {
+        "rollNo": "140",
+        "name": "Bhavesh Lad",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 76,
+        "semesters": {
+            "sem1": {
+                "sgpa": 7.2,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 7.4,
+                "backlogs": 1
+            },
+            "sem3": {
+                "sgpa": 7.1,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 9,
+        "totalAssignments": 12,
+        "overallScore": 73.1
+    },
+    {
+        "rollNo": "141",
+        "name": "Chaitanya Salunke",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 84,
+        "semesters": {
+            "sem1": {
+                "sgpa": 8.0,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 8.1,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 8.3,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 10,
+        "totalAssignments": 12,
+        "overallScore": 81.7
+    },
+    {
+        "rollNo": "142",
+        "name": "Dhanashree Nikam",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 90,
+        "semesters": {
+            "sem1": {
+                "sgpa": 8.8,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 8.7,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 8.9,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 11,
+        "totalAssignments": 12,
+        "overallScore": 88.2
+    },
+    {
+        "rollNo": "143",
+        "name": "Eknath Shinde",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 66,
+        "semesters": {
+            "sem1": {
+                "sgpa": 5.9,
+                "backlogs": 2
+            },
+            "sem2": {
+                "sgpa": 6.1,
+                "backlogs": 1
+            },
+            "sem3": {
+                "sgpa": 5.8,
+                "backlogs": 2
+            }
+        },
+        "assignmentsCompleted": 6,
+        "totalAssignments": 12,
+        "overallScore": 59.4
+    },
+    {
+        "rollNo": "144",
+        "name": "Hrishikesh Saraf",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 81,
+        "semesters": {
+            "sem1": {
+                "sgpa": 7.8,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 7.9,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 7.7,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 9,
+        "totalAssignments": 12,
+        "overallScore": 78.1
+    },
+    {
+        "rollNo": "145",
+        "name": "Janhavi Roy",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 88,
+        "semesters": {
+            "sem1": {
+                "sgpa": 8.4,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 8.6,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 8.5,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 11,
+        "totalAssignments": 12,
+        "overallScore": 85.9
+    },
+    {
+        "rollNo": "146",
+        "name": "Kishor Raut",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 74,
+        "semesters": {
+            "sem1": {
+                "sgpa": 7.1,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 6.9,
+                "backlogs": 1
+            },
+            "sem3": {
+                "sgpa": 7.2,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 8,
+        "totalAssignments": 12,
+        "overallScore": 71.0
+    },
+    {
+        "rollNo": "147",
+        "name": "Mrunal Thakur",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 92,
+        "semesters": {
+            "sem1": {
+                "sgpa": 9.0,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 8.9,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 9.2,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 12,
+        "totalAssignments": 12,
+        "overallScore": 90.5
+    },
+    {
+        "rollNo": "148",
+        "name": "Nilesh Kharat",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 79,
+        "semesters": {
+            "sem1": {
+                "sgpa": 7.5,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 7.7,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 7.4,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 9,
+        "totalAssignments": 12,
+        "overallScore": 75.8
+    },
+    {
+        "rollNo": "149",
+        "name": "Pranav Kulkarni",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 85,
+        "semesters": {
+            "sem1": {
+                "sgpa": 8.2,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 8.1,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 8.3,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 10,
+        "totalAssignments": 12,
+        "overallScore": 82.4
+    },
+    {
+        "rollNo": "150",
+        "name": "Rutvik Pal",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 71,
+        "semesters": {
+            "sem1": {
+                "sgpa": 6.7,
+                "backlogs": 1
+            },
+            "sem2": {
+                "sgpa": 6.8,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 6.6,
+                "backlogs": 1
+            }
+        },
+        "assignmentsCompleted": 8,
+        "totalAssignments": 12,
+        "overallScore": 67.9
+    },
+    {
+        "rollNo": "151",
+        "name": "Samyak Kamble",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 86,
+        "semesters": {
+            "sem1": {
+                "sgpa": 8.3,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 8.5,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 8.2,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 11,
+        "totalAssignments": 12,
+        "overallScore": 84.0
+    },
+    {
+        "rollNo": "152",
+        "name": "Tushar Jadhav",
+        "branch": "BCA",
+        "semester": 3,
+        "attendance": 78,
+        "semesters": {
+            "sem1": {
+                "sgpa": 7.4,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 7.6,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 7.5,
+                "backlogs": 0
+            }
+        },
+        "assignmentsCompleted": 9,
+        "totalAssignments": 12,
+        "overallScore": 75.9
+    },
+    {
+        "rollNo": "adfa",
+        "name": "abc abc 123",
+        "branch": "BCA",
+        "semester": 1,
+        "attendance": 0,
+        "assignmentsCompleted": 0,
+        "totalAssignments": 10,
+        "semesters": {
+            "sem1": {
+                "sgpa": 0.0,
+                "backlogs": 0
+            },
+            "sem2": {
+                "sgpa": 0.0,
+                "backlogs": 0
+            },
+            "sem3": {
+                "sgpa": 0.0,
+                "backlogs": 0
+            }
+        },
+        "overallScore": 0
+    }
+]
