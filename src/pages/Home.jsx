@@ -4,6 +4,7 @@ import Account from './Account'
 import Notification from './Notification'
 import Studylab from './Studylab'
 import { User, Bell, Award, BookOpen, LogOut } from 'lucide-react'
+import Leaderboard from './Leaderboard'
 
 const Home = ({ username = "akash", typeUser = "student", onLogout }) => {
   const [selectedNav, setSelectedNav] = useState('Account')
@@ -56,8 +57,15 @@ const Home = ({ username = "akash", typeUser = "student", onLogout }) => {
             <p>Your earned badges, certificates, and milestones will appear here.</p>
           </div>
         )
+
       case 'Study Lab':
-        return <Studylab typeUser= {typeUser}/>
+        return <Studylab typeUser={typeUser} />
+
+
+
+      case 'Leaderboard':
+        return <Leaderboard />
+
       case 'Logged Out':
         return (
           <div className="homeCardAreaPlaceholder">
@@ -65,6 +73,8 @@ const Home = ({ username = "akash", typeUser = "student", onLogout }) => {
             <p>You have been successfully logged out.</p>
           </div>
         )
+
+
       default:
         return <Account userData={userData} username={username} />
     }
@@ -139,6 +149,18 @@ const Home = ({ username = "akash", typeUser = "student", onLogout }) => {
           </div>
           <span className="navText">Study Lab</span>
         </div>
+
+
+        <div
+          className={`navItem ${selectedNav === 'Leaderboard' ? 'active' : ''}`}
+          onClick={() => setSelectedNav('Leaderboard')}
+        >
+          <div className="navIconCircle">
+            <User size={20} />
+          </div>
+          <span className="navText">Leaderboard</span>
+        </div>
+
 
         <div
           className="navItem logoutBtn"
